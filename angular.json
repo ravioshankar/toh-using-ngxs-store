@@ -116,5 +116,8 @@
       }
     }
   },
-  "defaultProject": "toh-using-ngxs-store"
+  "defaultProject": "toh-using-ngxs-store",
+  "cli": {
+    "defaultCollection": "@ngxs/schematics"
+  }
 }
